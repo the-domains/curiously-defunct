@@ -2,12 +2,13 @@ name: Curiously Defunct
 favicon: null
 layout_spectrum: 0.8997945729643106
 typography_spectrum: 0.1603109308052808
+title: 'Curiously Defunct | Functional Dysphoria'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77405836-1
   facebook: null
   twitter: null
 opengraph:
