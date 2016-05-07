@@ -1,6 +1,6 @@
 name: Curiously Defunct
 favicon: null
-layout_spectrum: 0.28415
+layout_spectrum: 0.47604
 typography_spectrum: 0.46339
 title: 'Curiously Defunct | Functional Dysphoria'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#47443f'
     - '#817c78'
     - '#0b0f12'
-  brandStrength: 0.6875
-  lightness: 0.625
-  saturation: 0.2484256539028138
-  rhythmicContrast: 0.5
+  brandStrength: 0.9375
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
