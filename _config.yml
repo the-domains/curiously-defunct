@@ -1,7 +1,7 @@
 name: Curiously Defunct
 favicon: null
-layout_spectrum: 0.8997945729643106
-typography_spectrum: 0.1603109308052808
+layout_spectrum: 0.28415
+typography_spectrum: 0.46339
 title: 'Curiously Defunct | Functional Dysphoria'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6158942119218409
-  lightness: 0.5498691557440907
+    - '#ffffff'
+    - '#c8c7c2'
+    - '#47443f'
+    - '#817c78'
+    - '#0b0f12'
+  brandStrength: 0.6875
+  lightness: 0.625
   saturation: 0.2484256539028138
-  rhythmicContrast: 0.03922726586461067
+  rhythmicContrast: 0.5
 purpose: []
